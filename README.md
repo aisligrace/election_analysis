@@ -36,3 +36,6 @@ The purpose of this project was to complete an audit of election results using P
 
   Diana DeGette: 272,892 total votes (73.8%)
   
+## Election Audit Summary
+
+  
