@@ -2,6 +2,10 @@
 Module 3 Election Analysis Project
 ## Overview of Election Audit:
 The purpose of this project was to complete an audit of election results using Python and Visual Studio code. We wanted to further examine results by county, looking at total votes per county, turnout percentages, and which county had the highest votes. We also wanted to take a deeper dive into the winning candidate, how many votes each candidate received, and each candidates' vote share. Once we had our results, we copied them to a text file to share with Seth, Tom, and the election commission.
+
+![alt text](https://github.com/aisligrace/election_analysis/blob/main/Module%203%20Deliverable%201%20Results.png)
+
+
 ## Election-Audit Results:
 * How many votes were cast in this congressional election?
 
