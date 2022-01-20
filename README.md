@@ -45,9 +45,20 @@ county_options = []
 county_votes = {}
 
 You could use:
+
 precinct_option = []
 precinct = {} 
 
-And go from there. The code can be customized to fit the specific variables you are looking for. 
+And go from there. The code can be customized to fit the specific variables you are looking for. For example, if you were looking at a ballot initiative election instead of candidates, the following could be subbed out:
+
+candidate_options = []
+candidate_votes = {}
+
+For this:
+
+question_options = []
+candidate_votes = {}
+
+There are numerous ways to change this code to fit a specific election so we would highly suggest using it in the future as opposed to starting from scratch again. 
 
   
