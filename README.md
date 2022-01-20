@@ -37,5 +37,17 @@ The purpose of this project was to complete an audit of election results using P
   Diana DeGette: 272,892 total votes (73.8%)
   
 ## Election Audit Summary
+Now that we have created this script that includes all our findings, it would be both efficient and cost effective to use it again for future elections. You would only need to make simple changes depending on what you were looking for. For example, if you wanted to examine at the precinct level instead of county, you would just sub out the county specific code for precinct. 
+
+As opposed to:
+
+county_options = []
+county_votes = {}
+
+You could use:
+precinct_option = []
+precinct = {} 
+
+And go from there. The code can be customized to fit the specific variables you are looking for. 
 
   
